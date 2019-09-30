@@ -1,0 +1,7 @@
+Time complexity :-
+
+Linear search : T(n)=2(n)+3
+Binary search : T(n)=C(log n)
+Bubble sort   : T(n)=C(n^2)
+Selection Sort: T(n)=C(n^2)
+merge sort    : T(n)=C(nlog n)
